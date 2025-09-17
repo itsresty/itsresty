@@ -1,26 +1,34 @@
-# Project Name
+# 👋 Hi, I'm Resty!
 
-A brief description of what your project does and who it’s for.
+💻 Aspiring **Information Technology Student** | 🎨 Creative Thinker | 🚀 Future Developer  
 
 ---
 
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
+## 🌟 About Me
+- 📚 Currently studying **Information Technology**  
+- 🧵 Working on a **Web-Based Clothing Tailoring Management System** as my thesis  
+- 💡 Interested in **Web Development, UI/UX, and System Design**  
+- ⚡ Fun fact: My fan group is called **"Lychee (荔枝)"** 🍇  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** PHP, MySQL
-- **Tools:** XAMPP, phpMyAdmin
+- **Languages:** PHP, C++, JavaScript  
+- **Web:** HTML, CSS, Bootstrap 5, jQuery, AJAX  
+- **Database:** MySQL, phpMyAdmin  
+- **Tools:** XAMPP, Git, Arduino Uno R4  
 
 ---
 
-## 📦 Installation
+## 📈 GitHub Stats
+![Resty's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
+---
+
+## 📫 Connect with Me
+- GitHub: [@your-username](https://github.com/your-username)  
+- Email: your-email@example.com  
+
+✨ _“Keep learning, keep building, and stay creative.”_ ✨
